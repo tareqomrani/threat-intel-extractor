@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Threat%20Intelligence%20Extractor%20(Lite)-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white" alt="Threat Intelligence Extractor (Lite)"/>
+</p>
+
+<p align="center">
+  Extract IOCs — IPs, Domains, Hashes — from Threat Reports using Streamlit + Python  
+</p>
+
+---
 # Threat Intelligence Extractor (Lite)
 
 A lightweight Streamlit app that extracts indicators of compromise (IOCs) using regular expressions.
